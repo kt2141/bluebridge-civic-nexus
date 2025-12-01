@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "category": "Sanitation",
+    "description": "Garbage not collected for 4 days near 3rd Cross.",
+    "location": "Ward 41",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "category": "Water Supply",
+    "description": "Low pressure water supply in the mornings.",
+    "location": "Ward 14",
+    "status": "Open"
+  }
+]
